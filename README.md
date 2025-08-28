@@ -1,5 +1,5 @@
-<H3>Name:Ponguru Aasrith Sairam </H3>
-<H3>Register No:212223240116 </H3>
+<H3>Name: VENKATANATHAN P R </H3>
+<H3>Register No:212223240173 </H3>
 <H3>Experiment 2</H3>
 <H3>Date:28-08-2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
